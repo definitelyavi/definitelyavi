@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @definitelyavi
-- 👀 I’m interested in learning new langugages
-- 🌱 I’m currently learning c++
-- 📫 How to reach me, just contact me on my email - probablyavi@gmail.com
+### 👋 Hi, I'm [@definitelyavi](https://github.com/definitelyavi)
 
-<!---
-definitelyavi/definitelyavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I'm passionate about learning new languages and building interactive web projects  
+- 🌱 Currently exploring: `C++`, `JavaScript`, and `Three.js`  
+- 🐍 Just released: [Snake Game v2.00](https://definitelyavi.github.io/snake-game-v2.00) – retro visuals, sound FX, difficulty settings  
+- 📫 Reach me at: **probablyavi@gmail.com**
+
+---
+
+> Feel free to fork, contribute, or just say hi!
