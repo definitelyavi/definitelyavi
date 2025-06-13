@@ -1,4 +1,4 @@
-# Hi, I'm Avi 👋
+# Hi, I'm Jashandeep (Avi) 👋
 
 Full-stack developer passionate about building intelligent web applications that solve real-world problems.
 
