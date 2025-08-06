@@ -1,7 +1,5 @@
 # Hi, I'm Jashandeep (Avi) 👋
 
-# SWE @ Semeca | TA @ Staples
-
 Full-stack developer passionate about building intelligent web applications that solve real-world problems.
 
 ## About Me
