@@ -14,8 +14,8 @@ Full-stack developer passionate about building intelligent web applications that
 **[MoodCode](https://github.com/definitelyavi/moodcode-frontend)** - Intelligent mood detection for developers  
 *React • Node.js • SoundCloud API • GitHub API • OAuth 2.0*
 
-**[Snake Game v2.00](https://github.com/definitelyavi/snake-game-v2.00)** - Modern take on the classic game  
-*JavaScript • Game Development • Interactive UI*
+**[Incident Tracker](https://github.com/definitelyavi/incident-tracker)** - Incident Management system for IT Support Teams  
+*Typescript • React • TailwindCSS • PSQL*
 
 ## Let's Connect
 
