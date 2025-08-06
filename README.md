@@ -4,10 +4,10 @@ Full-stack developer passionate about building intelligent web applications that
 
 ## About Me
 
-- 🎯 **Currently Building**: [MoodCode](https://moodcode-frontend.vercel.app) - An intelligent system that analyzes Git commits to generate personalized coding playlists
-- 💻 **Tech Stack**: React, Node.js, JavaScript, Express.js, OAuth 2.0, API Integration
-- 🔧 **Specializing In**: Full-stack development, API integrations, authentication systems, and responsive web design
-- 🎵 **Latest Project**: Built a complete OAuth 2.0 flow with PKCE for SoundCloud integration
+- **Currently Building**: [MoodCode](https://moodcode-frontend.vercel.app) - An intelligent system that analyzes Git commits to generate personalized coding playlists
+- **Tech Stack**: React, Node.js, JavaScript, Express.js, OAuth 2.0, API Integration
+- **Specializing In**: Full-stack development, API integrations, authentication systems, and responsive web design
+- **Latest Project**: Built a complete OAuth 2.0 flow with PKCE for SoundCloud integration
 
 ## Featured Projects
 
@@ -19,8 +19,8 @@ Full-stack developer passionate about building intelligent web applications that
 
 ## Let's Connect
 
-📧 **Email**: [probablyavi@gmail.com](mailto:probablyavi@gmail.com)  
-💼 **Portfolio**: [View My Projects](https://github.com/definitelyavi?tab=repositories)
+**Email**: [jashandeepsingh.dev@gmail.com](mailto:jashandeepsingh.dev@gmail.com)  
+**Portfolio**: [View My Projects](https://github.com/definitelyavi?tab=repositories)
 
 ---
 
