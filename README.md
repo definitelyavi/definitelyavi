@@ -15,7 +15,7 @@ Full-stack developer passionate about building intelligent web applications that
 *React • Node.js • SoundCloud API • GitHub API • OAuth 2.0*
 
 **[Incident Tracker](https://github.com/definitelyavi/incident-tracker)** - Incident Management system for IT Support Teams  
-*Typescript • React • TailwindCSS • PSQL*
+*JWT • React • TailwindCSS • PSQL*
 
 ## Let's Connect
 
